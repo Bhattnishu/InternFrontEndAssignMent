@@ -9,6 +9,5 @@
   2. 2. *Media Queries:* Applied media queries to adjust styles based on the screen width. Breakpoints were set at 768px for tablets and 480px for mobile devices. 3. *Flexible Images:* Ensured images are responsive by setting their width to a percentage and using max-width: 100%; to prevent overflow.
 3. 4. *Fluid Grid Layout:* Utilized a fluid grid layout for the features section, allowing the boxes to wrap and adjust based on screen size.
  5. 5. *Test and Iterate:* Tested the web page on various devices and screen sizes to ensure it looks great and functions well on all of them.
-6.  Live Demo Check out the live demo of RentBro: (https://your-demo-link.com) ## Contributing
- 
+6.  Live Demo Check out the live demo of RentBro: 
  
